@@ -1,0 +1,18 @@
+[
+  {
+
+  },
+  {
+    "name":"Узнать номер",
+    "action": {
+      "type": "text",
+      "label": "Как связаться?",
+      "payload":"{\"button\": \"tel-number\"}"
+
+    },
+    "color": "primary",
+    "deascription":"При нажатии на клавишу бот пришлет контактные данные",
+    "replyMessage":""
+  }
+]
+
